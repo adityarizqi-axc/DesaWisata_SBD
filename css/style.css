@@ -2,3 +2,7 @@
   width: 10rem;
   height: 20rem;
 }
+
+.form-label {
+  border-radius: 50%;
+}
